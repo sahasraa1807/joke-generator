@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Joke Generator</title>
+  <style>
+    /* CSS styles go here */
+  </style>
+</head>
+<body>
+
+  <div>
+    <h1>Get a Random Joke</h1>
+    <button id="getJoke">Tell me a joke!</button>
+    <p id="jokeResult">Click the button to start laughing!</p>
+  </div>
+
+  <script>
+    /* JavaScript code goes here */
+  </script>
+
+</body>
+</html>
